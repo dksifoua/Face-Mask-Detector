@@ -1,3 +1,0 @@
-name: face_mask_detection
-dependencies:
-  - python=3.7
